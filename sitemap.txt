@@ -1,0 +1,35 @@
+[0:04 am, 09/06/2025] Ravish Bajpai: https://www.thebachelorspot.in/food-groceries
+https://www.thebachelorspot.in/food-groceries/order-food
+https://www.thebachelorspot.in/food-groceries/order-food/south-culture
+https://www.thebachelorspot.in/food-groceries/order-groceries
+https://www.thebachelorspot.in/home
+https://www.thebachelorspot.in/about
+https://www.thebachelorspot.in/about/bachelor-careers
+https://www.thebachelorspot.in/food-groceries/order-food/r-f-c
+https://www.thebachelorspot.in/food-groceries/order-food/shree-shyam-shudh-vaishno-dhaba
+https://www.thebachelorspot.in/food-groceries/order-food/singh-sahab-da-punjabi-dhaba
+https://www.thebachelorspot.in/food-groceries/order-food/chinese
+https://www.thebachelorspot.in/food-groceries/order-food/momos
+https://www.thebachelorspot.in/food-groceries/order-food/roolls
+https://www.thebachelorspot.in/food-groceries/order-food/samosa
+https://www.thebachelorspot.in/food-groceries/order-food/pakoda
+https://www.thebachelorspot.in/food-groceries/order-food/noodles
+https://www.thebachelorspot.in/home/pgco-living-near-you
+https://www.thebachelorspot.in/home/bike-on-rent
+https://www.thebachelorspot.in/home/bachelor-fashion
+https://www.thebachelorspot.in/about/bachelor-careers/careers
+https://www.thebachelorspot.in/home/pgco-living-near-you/pgco-living-near-roorkee
+https://www.thebachelorspot.in/home/pgco-living-near-you/pgco-living-near-dehradun
+https://www.thebachelorspot.in/home/bike-on-rent/daily-rentals
+https://www.thebachelorspot.in/home/bike-on-rent/monthly-subscription
+https://www.thebachelorspot.in/home/pgco-living-near-you/pgco-living-near-roorkee/1-rk-near-roorkee
+https://www.thebachelorspot.in/home/pgco-living-near-you/pgco-living-near-roorkee/2-bhk-near-roorkee
+[0:42 am, 09/06/2025] Ravish Bajpai: # Sitemap for TheBachelorSpot.in
+
+This repository contains the plain text sitemap for [TheBachelorSpot.in](https://www.thebachelorspot.in), a local-first platform for food, groceries, and lifestyle services.
+
+## Sitemap URL
+Hosted via GitHub Pages:
+[https://ravishbajpai.github.io/sitemap/sitemap.txt](https://ravishbajpai.github.io/sitemap/sitemap.txt)
+
+This sitemap is submitted to Google Search Console to help with indexing and SEO visibility.
